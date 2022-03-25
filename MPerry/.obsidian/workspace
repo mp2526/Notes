@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "ad9e169224101832",
+    "type": "split",
+    "children": [
+      {
+        "id": "adecd08a1d7a0fc0",
+        "type": "leaf",
+        "state": {
+          "type": "cook",
+          "state": {
+            "file": "Recipes/Creamy Herb Chicken.cook"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e98f6761d0ce10f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "570f7bc54a36f77a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da23105bd0ec4704",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "97c20f5777f8cb89",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5fe244de4e01aeed",
+    "type": "split",
+    "children": [
+      {
+        "id": "d191921c5bce72a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a50c6713c75d557a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Recipes/Creamy Herb Chicken.cook",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "adecd08a1d7a0fc0",
+  "lastOpenFiles": [
+    "Recipes/Creamy Herb Chicken.cook",
+    "Recipes/Creamy Herb Chicken.md"
+  ]
+}
